@@ -19,3 +19,19 @@ public class ShuffleController : ControllerBase
 
     }
 }
+
+[ApiController]
+[Route("[controller]")]
+public class CoinFlipController : ControllerBase
+{
+    
+    private object[]? Answers;
+    [HttpGet(Name = "GetCoinFlip")]
+    public string get()
+    {
+    var rnd = new Random();
+        return new[] {"h","t"}[rnd.Next(2)];
+        
+
+    }
+}
