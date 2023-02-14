@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/home/hop/Desktop/quack_api/QuackDotnet/Quack.csproj": {}
+    "/home/hop/Desktop/quack/quack_api/QuackDotnet/Quack.csproj": {}
   },
   "projects": {
-    "/home/hop/Desktop/quack_api/QuackDotnet/Quack.csproj": {
+    "/home/hop/Desktop/quack/quack_api/QuackDotnet/Quack.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/hop/Desktop/quack_api/QuackDotnet/Quack.csproj",
+        "projectUniqueName": "/home/hop/Desktop/quack/quack_api/QuackDotnet/Quack.csproj",
         "projectName": "Quack",
-        "projectPath": "/home/hop/Desktop/quack_api/QuackDotnet/Quack.csproj",
+        "projectPath": "/home/hop/Desktop/quack/quack_api/QuackDotnet/Quack.csproj",
         "packagesPath": "/home/hop/.nuget/packages/",
-        "outputPath": "/home/hop/Desktop/quack_api/QuackDotnet/obj/",
+        "outputPath": "/home/hop/Desktop/quack/quack_api/QuackDotnet/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/home/hop/.nuget/NuGet/NuGet.Config"

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "PzSVgTU/36a0zaWhvLAlS42nKcsHfU8F5Z+bAg4VflFsPZh14RiMS09ixBtHmyDWeneqYYSulzZ2x64lUJFmdw==",
+  "dgSpecHash": "prXSFlDUWfHBg9QZWgk0+GwyOG1BSosg9nTDCIyObDkodaVCqsVilhoFXEika9RxwpuMPzP50g1si5caQXV1lg==",
   "success": true,
-  "projectFilePath": "/home/hop/Desktop/quack_api/QuackDotnet/Quack.csproj",
+  "projectFilePath": "/home/hop/Desktop/quack/quack_api/QuackDotnet/Quack.csproj",
   "expectedPackageFiles": [
     "/home/hop/.nuget/packages/microsoft.aspnetcore.openapi/7.0.2/microsoft.aspnetcore.openapi.7.0.2.nupkg.sha512",
     "/home/hop/.nuget/packages/microsoft.extensions.apidescription.server/6.0.5/microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
